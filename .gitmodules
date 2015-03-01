@@ -1,0 +1,15 @@
+[submodule "Svetoslav/tasks"]
+	path = Svetoslav/tasks
+	url = https://github.com/Darkov3/HackerSchool_Svetoslav.git
+[submodule "Svetoslav/server"]
+	path = Svetoslav/server
+	url = https://github.com/Darkov3/server.git
+[submodule "IceCubeDev/Projects"]
+	path = IceCubeDev/Projects
+	url = https://github.com/IceCubeDev/CodeSnippets-Projects.git
+[submodule "IceCubeDev/hackerschool"]
+	path = IceCubeDev/hackerschool
+	url = https://github.com/IceCubeDev/hackerschool.git
+[submodule "Nikolas1814"]
+	path = Nikolas1814
+	url = https://github.com/Nikolas1814/Telebit.git
